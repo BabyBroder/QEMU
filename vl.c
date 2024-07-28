@@ -1,4 +1,7 @@
-```
+'''
+This code only has function main
+'''
+
 int main(int argc, char **argv, char **envp)
 {
     int i;
@@ -1546,4 +1549,3 @@ int main(int argc, char **argv, char **envp)
 
     return 0;
 }
-```
